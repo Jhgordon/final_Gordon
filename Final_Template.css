@@ -1,0 +1,57 @@
+/*This is the CSS page for our final Bootstrap template.*/
+
+.section {
+	text-align: left;
+}
+img {
+	border: 2px solid maroon;
+}
+.accordion-button:not(.collapsed), .accordion-button:focus {
+	font-family: Georgia, serif;
+	background-color: darkblue;
+	color: darkgray;
+	margin-bottom: 10px;
+}
+.footer p {
+	background-color: #cccccc;
+	text-align: center;
+	font-size: 20px;
+	margin-bottom: 15px;
+	margin-top: 2opx;
+	
+}
+.dek {
+	font-family:'Merriweather', serif; 
+}
+.byline {
+	font-family:'Merriweather', serif;
+	margin-bottom: 20px;
+}
+.accordion {
+	margin-top: 10px;
+}
+
+#datamethodology {
+	font-size: 20px;
+}
+#title {
+ font-size: 50px;
+ text-align: center;
+ font-family: 'Merriweather', serif;
+ font-weight: bold;
+}
+
+#subhed {
+	color: darkblue;
+	font-family:'Merriweather', serif;
+}
+#JB {
+  float: right;
+  width: 25.3%;
+  padding: 0px;
+  margin-left: 3px;
+}
+
+#body{
+	font-family:'Merriweather', serif; ;
+}
